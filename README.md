@@ -23,8 +23,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   </div> <br>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/tarcisiobm" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
-</div>
-
 
