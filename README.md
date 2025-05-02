@@ -1,18 +1,19 @@
-# Hello World, I'm Tarcisio, be very welcome
 
-<div align="left">
-  <a href="https://github.com/tarcisiobm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarcisiobm&theme=tokyonight&show_icons=true&hide_border=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisiobm&layout=compact&langs_count=6&theme=tokyonight"/>
+<div align="center">
+  <img height="220px" src="https://i.imgur.com/wEuOu9h.png" alt="Laptop" />
 </div>
+    
+<h2 align="center">Hello World, I'm Tarcisio, be very welcome</h2>
 
-<h4 align="left">Tecnologias estudadas / Studied Technologies </h4>
+<h4 align="left"> Studied technologies </h4>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,php,laravel,angular,vue,mysql,mongodb,git" />
   </a>
 </p>
+
+<h4 align="left"> Connect with me </h4>
 
 <div align="left"> 
   <a href = "mailto:tarcisiobm.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
