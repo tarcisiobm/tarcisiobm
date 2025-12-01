@@ -21,3 +21,4 @@ jobs:
           committer_branch: cards
           committer_message: "Update github-metrics.svg [Skip GitHub Action]"
           plugin_isocalendar: yes
+          plugin_languages: yes
